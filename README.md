@@ -1,0 +1,2 @@
+# AlpacaJapanExercise
+ kMeans calculation algorithms
